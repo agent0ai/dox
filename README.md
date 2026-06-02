@@ -18,7 +18,7 @@ The result is simple: traverse the docs, understand the local rules, make precis
 
 ## How to use
 
-1. Copy the contents of [AGENTS.md](./AGENTS.md) into your project's AGENTS.md file.
+1. Copy the contents of [AGENTS.md](./AGENTS.md?plain=1) into your project's AGENTS.md file.
 
 <br>
 That's it. No installation, no dependencies, no package, no runtime. DOX is just a Markdown instruction for AI agents.
