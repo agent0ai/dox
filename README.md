@@ -29,6 +29,8 @@ No AGENTS.md yet? Copy the file into your project root. The agent will see these
 
 For an existing project, you can tell your agent: `Initialize DOX tree for this project now.` It will create all the child AGENTS.md files and indexes.
 
+Optional: see [agents/](./agents) for orchestrator and documenter agent templates that automate DOX tree maintenance.
+
 ## Credits
 
 <p align="center">
