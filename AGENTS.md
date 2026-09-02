@@ -1,3 +1,5 @@
+<!-- DO NOT EDIT OR REMOVE BELOW LINES -->
+
 # DOX framework
 
 - DOX is highly performant AGENTS.md hierarchy installed here
@@ -77,6 +79,8 @@ Default section order:
 ## User Preferences
 
 When the user requests a durable behavior change, record it here or in the relevant child AGENTS.md
+
+<!-- DO NOT EDIT OR REMOVE ABOVE LINES -->
 
 ## Child DOX Index
 
