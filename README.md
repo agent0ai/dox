@@ -42,3 +42,19 @@ For an existing project, you can tell your agent: `Initialize DOX tree for this 
   Open-source agentic AI framework<br>
   <a href="https://www.agent-zero.ai/">Website</a> · <a href="https://github.com/agent0ai/agent-zero">GitHub repository</a>
 </p>
+
+## Usage Examples
+
+To better understand how to implement DOX in your projects, here are a few examples:
+
+### Example 1: Basic Setup
+1. Create a new project directory.
+2. Copy the contents of [AGENTS.md](./AGENTS.md?plain=1) into your project's AGENTS.md file.
+3. Initialize the DOX tree by running `Initialize DOX tree for this project now.`
+
+### Example 2: Updating AGENTS.md
+1. After making changes to your project, review the relevant AGENTS.md files.
+2. Update the nearest owning AGENTS.md to reflect any changes in responsibilities or scope.
+3. Ensure to refresh the Child DOX Index to keep documentation current.
+
+These examples illustrate the straightforward process of using DOX to maintain project documentation effectively.
